@@ -1,0 +1,10 @@
+name: ServerGuard
+version: '${project.version}'
+main: dev.hyperskys.serverguard.ServerGuard
+authors: [ HyperSkys ]
+description: Guards your server with a custom password, should be secure.
+website: www.hyperskys.dev
+commands:
+  serverguard:
+    description: The main command for the server guard plugin.
+    aliases: [sg]

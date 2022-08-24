@@ -1,0 +1,4 @@
+Settings:
+  mongodb-uri: "mongodb://user:password@localhost:27017"
+  captcha-enabled: true
+  captcha-type: "Coming Soon"
